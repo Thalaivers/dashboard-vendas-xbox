@@ -101,3 +101,5 @@ A escolha correta dos filtros é essencial para garantir que os resultados corre
 ### Dashboard
 
 A área de apresentação visual reúne os resultados de forma organizada, permitindo consultar os indicadores e comparar diferentes aspectos das assinaturas.
+
+
